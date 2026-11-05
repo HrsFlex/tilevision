@@ -1,0 +1,102 @@
+{
+  "surfaces": [
+    {
+      "name": "floor",
+      "label": "Floor",
+      "type": "floor",
+      "polygon": [
+        [
+          0.0,
+          0.7
+        ],
+        [
+          1.0,
+          0.7
+        ],
+        [
+          1.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "wall_back",
+      "label": "Back Wall",
+      "type": "wall",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.7
+        ],
+        [
+          0.0,
+          0.7
+        ]
+      ]
+    },
+    {
+      "name": "wall_left",
+      "label": "Left Wall",
+      "type": "wall",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.35,
+          0.0
+        ],
+        [
+          0.35,
+          0.7
+        ],
+        [
+          0.0,
+          0.7
+        ]
+      ]
+    },
+    {
+      "name": "ceiling",
+      "label": "Ceiling",
+      "type": "ceiling",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.2
+        ],
+        [
+          0.0,
+          0.2
+        ]
+      ]
+    }
+  ],
+  "description": "A bright living room with wooden floors and white brick walls, featuring a large sectional sofa and coffee table.",
+  "style": "modern",
+  "tips": [
+    "Consider using light-colored tiles to complement the bright aesthetic",
+    "Rectangular tiles can enhance the room's spacious feel"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "surfaces": [
+    {
+      "name": "floor",
+      "label": "Floor",
+      "type": "floor",
+      "polygon": [
+        [
+          0.0,
+          0.65
+        ],
+        [
+          1.0,
+          0.65
+        ],
+        [
+          1.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "wall_left",
+      "label": "Left Wall",
+      "type": "wall",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.65
+        ],
+        [
+          0.4,
+          0.65
+        ],
+        [
+          0.4,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "wall_back",
+      "label": "Back Wall",
+      "type": "wall",
+      "polygon": [
+        [
+          0.4,
+          0.0
+        ],
+        [
+          0.4,
+          0.65
+        ],
+        [
+          1.0,
+          0.65
+        ],
+        [
+          1.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "ceiling",
+      "label": "Ceiling",
+      "type": "ceiling",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.07
+        ],
+        [
+          0.0,
+          0.07
+        ]
+      ]
+    }
+  ],
+  "description": "A bright living room with wooden floors and white brick walls",
+  "style": "modern",
+  "tips": [
+    "Large format tiles would suit this open floor space",
+    "Use light grout to maintain the airy feel"
+  ]
+}

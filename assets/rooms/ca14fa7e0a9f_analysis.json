@@ -1,0 +1,79 @@
+{
+  "surfaces": [
+    {
+      "name": "floor",
+      "label": "Floor",
+      "type": "floor",
+      "polygon": [
+        [
+          0.0,
+          0.6
+        ],
+        [
+          1.0,
+          0.6
+        ],
+        [
+          1.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "left_wall",
+      "label": "Left Wall",
+      "type": "wall",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.3,
+          0.0
+        ],
+        [
+          0.3,
+          0.6
+        ],
+        [
+          0.0,
+          0.6
+        ]
+      ]
+    },
+    {
+      "name": "back_wall",
+      "label": "Back Wall",
+      "type": "wall",
+      "polygon": [
+        [
+          0.3,
+          0.0
+        ],
+        [
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.6
+        ],
+        [
+          0.3,
+          0.6
+        ]
+      ]
+    }
+  ],
+  "description": "A bright living room with light wood floors and cream brick walls",
+  "style": "modern",
+  "tips": [
+    "Large format tiles would suit this open floor space",
+    "Use light grout to maintain the airy feel"
+  ]
+}

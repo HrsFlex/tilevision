@@ -1,0 +1,125 @@
+{
+  "surfaces": [
+    {
+      "name": "floor",
+      "label": "Floor",
+      "type": "floor",
+      "polygon": [
+        [
+          0.0,
+          0.7
+        ],
+        [
+          1.0,
+          0.7
+        ],
+        [
+          1.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "left_wall",
+      "label": "Left Wall",
+      "type": "wall",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0
+        ],
+        [
+          0.5,
+          0.7
+        ],
+        [
+          0.5,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "right_wall",
+      "label": "Right Wall",
+      "type": "wall",
+      "polygon": [
+        [
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          1.0
+        ],
+        [
+          0.5,
+          0.7
+        ],
+        [
+          0.5,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "back_wall",
+      "label": "Back Wall",
+      "type": "wall",
+      "polygon": [
+        [
+          0.5,
+          0.0
+        ],
+        [
+          0.5,
+          0.7
+        ],
+        [
+          0.5,
+          0.7
+        ],
+        [
+          0.5,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "ceiling",
+      "label": "Ceiling",
+      "type": "ceiling",
+      "polygon": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0
+        ],
+        [
+          0.5,
+          0.0
+        ],
+        [
+          0.0,
+          0.0
+        ]
+      ]
+    }
+  ],
+  "description": "A simple room with beige walls, ceiling, and a tan floor.",
+  "style": "minimalist",
+  "tips": [
+    "Neutral colored tiles will enhance the minimalist design",
+    "Consider matte finish tiles for a modern look"
+  ]
+}
